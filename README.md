@@ -27,12 +27,6 @@ The implementation of the Movie Recommendation System involves the following ste
 
 5. **Movie Recommendations**: Develop a function that takes a movie title as input and recommends similar movies based on collaborative filtering.
 
-
-## License
-
-This Movie Recommendation System is released under the [MIT License](LICENSE).
-
-
 ## Usage
 
 To use the Movie Recommendation System, follow these steps:
@@ -55,3 +49,9 @@ The Movie Recommendation System relies on the following dependencies:
 - scikit-learn
 
 You can install these dependencies using `pip` by running the following command:
+
+
+## License
+
+This Movie Recommendation System is released under the [MIT License](LICENSE).
+
