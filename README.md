@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/tanmay-kalbande/Movie-Recommendation-System&left_color=crimson&right_color=708090)
 # Movie Recommendation System
 
 This Movie Recommendation System is built using Python and the MovieLens dataset. The system utilizes collaborative filtering, a popular recommendation technique, to provide personalized movie recommendations based on user preferences and historical movie ratings.
